@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<folder>2</folder>
+	<filename>186.jpg</filename>
+	<path>/home/wayne/workspace/food_data/186.jpg</path>
+	<source>
+		<database>UECfood256</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>516</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>eels on rice</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>295</xmin>
+			<ymin>166</ymin>
+			<xmax>800</xmax>
+			<ymax>516</ymax>
+		</bndbox>
+	</object>
+</annotation>

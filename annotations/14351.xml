@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<folder>18</folder>
+	<filename>14351.jpg</filename>
+	<path>/home/wayne/workspace/food_data/14351.jpg</path>
+	<source>
+		<database>UECfood256</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pizza</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>0</xmin>
+			<ymin>41</ymin>
+			<xmax>443</xmax>
+			<ymax>385</ymax>
+		</bndbox>
+	</object>
+</annotation>

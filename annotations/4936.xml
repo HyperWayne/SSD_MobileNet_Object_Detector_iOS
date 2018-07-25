@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<folder>1</folder>
+	<filename>4936.jpg</filename>
+	<path>/home/wayne/workspace/food_data/4936.jpg</path>
+	<source>
+		<database>UECfood256</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>213</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rice</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>21</ymin>
+			<xmax>152</xmax>
+			<ymax>101</ymax>
+		</bndbox>
+	</object>
+</annotation>

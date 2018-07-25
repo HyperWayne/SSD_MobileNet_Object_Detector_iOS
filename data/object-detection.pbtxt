@@ -1,0 +1,1280 @@
+item {
+  id: 1
+  name: 'rice'
+}
+
+item {
+  id: 2
+  name: 'eels on rice'
+}
+
+item {
+  id: 3
+  name: 'pilaf'
+}
+
+item {
+  id: 4
+  name: 'chicken-egg on rice'
+}
+
+item {
+  id: 5
+  name: 'pork cutlet on rice'
+}
+
+item {
+  id: 6
+  name: 'beef curry'
+}
+
+item {
+  id: 7
+  name: 'sushi'
+}
+
+item {
+  id: 8
+  name: 'chicken rice'
+}
+
+item {
+  id: 9
+  name: 'fried rice'
+}
+
+item {
+  id: 10
+  name: 'tempura bowl'
+}
+
+item {
+  id: 11
+  name: 'bibimbap'
+}
+
+item {
+  id: 12
+  name: 'toast'
+}
+
+item {
+  id: 13
+  name: 'croissant'
+}
+
+item {
+  id: 14
+  name: 'roll bread'
+}
+
+item {
+  id: 15
+  name: 'raisin bread'
+}
+
+item {
+  id: 16
+  name: 'chip butty'
+}
+
+item {
+  id: 17
+  name: 'hamburger'
+}
+
+item {
+  id: 18
+  name: 'pizza'
+}
+
+item {
+  id: 19
+  name: 'sandwiches'
+}
+
+item {
+  id: 20
+  name: 'udon noodle'
+}
+
+item {
+  id: 21
+  name: 'tempura udon'
+}
+
+item {
+  id: 22
+  name: 'soba noodle'
+}
+
+item {
+  id: 23
+  name: 'ramen noodle'
+}
+
+item {
+  id: 24
+  name: 'beef noodle'
+}
+
+item {
+  id: 25
+  name: 'tensin noodle'
+}
+
+item {
+  id: 26
+  name: 'fried noodle'
+}
+
+item {
+  id: 27
+  name: 'spaghetti'
+}
+
+item {
+  id: 28
+  name: 'Japanese-style pancake'
+}
+
+item {
+  id: 29
+  name: 'takoyaki'
+}
+
+item {
+  id: 30
+  name: 'gratin'
+}
+
+item {
+  id: 31
+  name: 'sauteed vegetables'
+}
+
+item {
+  id: 32
+  name: 'croquette'
+}
+
+item {
+  id: 33
+  name: 'grilled eggplant'
+}
+
+item {
+  id: 34
+  name: 'sauteed spinach'
+}
+
+item {
+  id: 35
+  name: 'vegetable tempura'
+}
+
+item {
+  id: 36
+  name: 'miso soup'
+}
+
+item {
+  id: 37
+  name: 'potage'
+}
+
+item {
+  id: 38
+  name: 'sausage'
+}
+
+item {
+  id: 39
+  name: 'oden'
+}
+
+item {
+  id: 40
+  name: 'omelet'
+}
+
+item {
+  id: 41
+  name: 'ganmodoki'
+}
+
+item {
+  id: 42
+  name: 'jiaozi'
+}
+
+item {
+  id: 43
+  name: 'stew'
+}
+
+item {
+  id: 44
+  name: 'teriyaki grilled fish'
+}
+
+item {
+  id: 45
+  name: 'fried fish'
+}
+
+item {
+  id: 46
+  name: 'grilled salmon'
+}
+
+item {
+  id: 47
+  name: 'salmon meuniere'
+}
+
+item {
+  id: 48
+  name: 'sashimi'
+}
+
+item {
+  id: 49
+  name: 'grilled pacific saury'
+}
+
+item {
+  id: 50
+  name: 'sukiyaki'
+}
+
+item {
+  id: 51
+  name: 'sweet and sour pork'
+}
+
+item {
+  id: 52
+  name: 'lightly roasted fish'
+}
+
+item {
+  id: 53
+  name: 'steamed egg hotchpotch'
+}
+
+item {
+  id: 54
+  name: 'tempura'
+}
+
+item {
+  id: 55
+  name: 'fried chicken'
+}
+
+item {
+  id: 56
+  name: 'sirloin cutlet'
+}
+
+item {
+  id: 57
+  name: 'nanbanzuke'
+}
+
+item {
+  id: 58
+  name: 'boiled fish'
+}
+
+item {
+  id: 59
+  name: 'seasoned beef with potatoes'
+}
+
+item {
+  id: 60
+  name: 'hambarg steak'
+}
+
+item {
+  id: 61
+  name: 'steak'
+}
+
+item {
+  id: 62
+  name: 'dried fish'
+}
+
+item {
+  id: 63
+  name: 'ginger pork saute'
+}
+
+item {
+  id: 64
+  name: 'spicy chili-flavored tofu'
+}
+
+item {
+  id: 65
+  name: 'yakitori'
+}
+
+item {
+  id: 66
+  name: 'cabbage roll'
+}
+
+item {
+  id: 67
+  name: 'omelet'
+}
+
+item {
+  id: 68
+  name: 'egg sunny-side up'
+}
+
+item {
+  id: 69
+  name: 'natto'
+}
+
+item {
+  id: 70
+  name: 'cold tofu'
+}
+
+item {
+  id: 71
+  name: 'egg roll'
+}
+
+item {
+  id: 72
+  name: 'chilled noodle'
+}
+
+item {
+  id: 73
+  name: 'stir-fried beef and peppers'
+}
+
+item {
+  id: 74
+  name: 'simmered pork'
+}
+
+item {
+  id: 75
+  name: 'boiled chicken and vegetables'
+}
+
+item {
+  id: 76
+  name: 'sashimi bowl'
+}
+
+item {
+  id: 77
+  name: 'sushi bowl'
+}
+
+item {
+  id: 78
+  name: 'fish-shaped pancake with bean jam'
+}
+
+item {
+  id: 79
+  name: 'shrimp with chill source'
+}
+
+item {
+  id: 80
+  name: 'roast chicken'
+}
+
+item {
+  id: 81
+  name: 'steamed meat dumpling'
+}
+
+item {
+  id: 82
+  name: 'omelet with fried rice'
+}
+
+item {
+  id: 83
+  name: 'cutlet curry'
+}
+
+item {
+  id: 84
+  name: 'spaghetti meat sauce'
+}
+
+item {
+  id: 85
+  name: 'fried shrimp'
+}
+
+item {
+  id: 86
+  name: 'potato salad'
+}
+
+item {
+  id: 87
+  name: 'green salad'
+}
+
+item {
+  id: 88
+  name: 'macaroni salad'
+}
+
+item {
+  id: 89
+  name: 'Japanese tofu and vegetable chowder'
+}
+
+item {
+  id: 90
+  name: 'pork miso soup'
+}
+
+item {
+  id: 91
+  name: 'chinese soup'
+}
+
+item {
+  id: 92
+  name: 'beef bowl'
+}
+
+item {
+  id: 93
+  name: 'kinpira-style sauteed burdock'
+}
+
+item {
+  id: 94
+  name: 'rice ball'
+}
+
+item {
+  id: 95
+  name: 'pizza toast'
+}
+
+item {
+  id: 96
+  name: 'dipping noodles'
+}
+
+item {
+  id: 97
+  name: 'hot dog'
+}
+
+item {
+  id: 98
+  name: 'french fries'
+}
+
+item {
+  id: 99
+  name: 'mixed rice'
+}
+
+item {
+  id: 100
+  name: 'goya chanpuru'
+}
+
+item {
+  id: 101
+  name: 'green curry'
+}
+
+item {
+  id: 102
+  name: 'okinawa soba'
+}
+
+item {
+  id: 103
+  name: 'mango pudding'
+}
+
+item {
+  id: 104
+  name: 'almond jelly'
+}
+
+item {
+  id: 105
+  name: 'jjigae'
+}
+
+item {
+  id: 106
+  name: 'dak galbi'
+}
+
+item {
+  id: 107
+  name: 'dry curry'
+}
+
+item {
+  id: 108
+  name: 'kamameshi'
+}
+
+item {
+  id: 109
+  name: 'rice vermicelli'
+}
+
+item {
+  id: 110
+  name: 'paella'
+}
+
+item {
+  id: 111
+  name: 'tanmen'
+}
+
+item {
+  id: 112
+  name: 'kushikatu'
+}
+
+item {
+  id: 113
+  name: 'yellow curry'
+}
+
+item {
+  id: 114
+  name: 'pancake'
+}
+
+item {
+  id: 115
+  name: 'champon'
+}
+
+item {
+  id: 116
+  name: 'crape'
+}
+
+item {
+  id: 117
+  name: 'tiramisu'
+}
+
+item {
+  id: 118
+  name: 'waffle'
+}
+
+item {
+  id: 119
+  name: 'rare cheese cake'
+}
+
+item {
+  id: 120
+  name: 'shortcake'
+}
+
+item {
+  id: 121
+  name: 'chop suey'
+}
+
+item {
+  id: 122
+  name: 'twice cooked pork'
+}
+
+item {
+  id: 123
+  name: 'mushroom risotto'
+}
+
+item {
+  id: 124
+  name: 'samul'
+}
+
+item {
+  id: 125
+  name: 'zoni'
+}
+
+item {
+  id: 126
+  name: 'french toast'
+}
+
+item {
+  id: 127
+  name: 'fine white noodles'
+}
+
+item {
+  id: 128
+  name: 'minestrone'
+}
+
+item {
+  id: 129
+  name: 'pot au feu'
+}
+
+item {
+  id: 130
+  name: 'chicken nugget'
+}
+
+item {
+  id: 131
+  name: 'namero'
+}
+
+item {
+  id: 132
+  name: 'french bread'
+}
+
+item {
+  id: 133
+  name: 'rice gruel'
+}
+
+item {
+  id: 134
+  name: 'broiled eel bowl'
+}
+
+item {
+  id: 135
+  name: 'clear soup'
+}
+
+item {
+  id: 136
+  name: 'yudofu'
+}
+
+item {
+  id: 137
+  name: 'mozuku'
+}
+
+item {
+  id: 138
+  name: 'inarizushi'
+}
+
+item {
+  id: 139
+  name: 'pork loin cutlet'
+}
+
+item {
+  id: 140
+  name: 'pork fillet cutlet'
+}
+
+item {
+  id: 141
+  name: 'chicken cutlet'
+}
+
+item {
+  id: 142
+  name: 'ham cutlet'
+}
+
+item {
+  id: 143
+  name: 'minced meat cutlet'
+}
+
+item {
+  id: 144
+  name: 'thinly sliced raw horsemeat'
+}
+
+item {
+  id: 145
+  name: 'bagel'
+}
+
+item {
+  id: 146
+  name: 'scone'
+}
+
+item {
+  id: 147
+  name: 'tortilla'
+}
+
+item {
+  id: 148
+  name: 'tacos'
+}
+
+item {
+  id: 149
+  name: 'nachos'
+}
+
+item {
+  id: 150
+  name: 'meat loaf'
+}
+
+item {
+  id: 151
+  name: 'scrambled egg'
+}
+
+item {
+  id: 152
+  name: 'rice gratin'
+}
+
+item {
+  id: 153
+  name: 'lasagna'
+}
+
+item {
+  id: 154
+  name: 'Caesar salad'
+}
+
+item {
+  id: 155
+  name: 'oatmeal'
+}
+
+item {
+  id: 156
+  name: 'fried pork dumplings served in soup'
+}
+
+item {
+  id: 157
+  name: 'oshiruko'
+}
+
+item {
+  id: 158
+  name: 'muffin'
+}
+
+item {
+  id: 159
+  name: 'popcorn'
+}
+
+item {
+  id: 160
+  name: 'cream puff'
+}
+
+item {
+  id: 161
+  name: 'doughnut'
+}
+
+item {
+  id: 162
+  name: 'apple pie'
+}
+
+item {
+  id: 163
+  name: 'parfait'
+}
+
+item {
+  id: 164
+  name: 'fried pork in scoop'
+}
+
+item {
+  id: 165
+  name: 'lamb kebabs'
+}
+
+item {
+  id: 166
+  name: 'dish consisting of stir-fried potato eggplant and green pepper'
+}
+
+item {
+  id: 167
+  name: 'roast duck'
+}
+
+item {
+  id: 168
+  name: 'hot pot'
+}
+
+item {
+  id: 169
+  name: 'pork belly'
+}
+
+item {
+  id: 170
+  name: 'xiao long bao'
+}
+
+item {
+  id: 171
+  name: 'moon cake'
+}
+
+item {
+  id: 172
+  name: 'custard tart'
+}
+
+item {
+  id: 173
+  name: 'beef noodle soup'
+}
+
+item {
+  id: 174
+  name: 'pork cutlet'
+}
+
+item {
+  id: 175
+  name: 'minced pork rice'
+}
+
+item {
+  id: 176
+  name: 'fish ball soup'
+}
+
+item {
+  id: 177
+  name: 'oyster omelette'
+}
+
+item {
+  id: 178
+  name: 'glutinous oil rice'
+}
+
+item {
+  id: 179
+  name: 'trunip pudding'
+}
+
+item {
+  id: 180
+  name: 'stinky tofu'
+}
+
+item {
+  id: 181
+  name: 'lemon fig jelly'
+}
+
+item {
+  id: 182
+  name: 'khao soi'
+}
+
+item {
+  id: 183
+  name: 'Sour prawn soup'
+}
+
+item {
+  id: 184
+  name: 'Thai papaya salad'
+}
+
+item {
+  id: 185
+  name: 'boned sliced Hainan-style chicken with marinated rice'
+}
+
+item {
+  id: 186
+  name: 'hot and sour fish and vegetable ragout'
+}
+
+item {
+  id: 187
+  name: 'stir-fried mixed vegetables'
+}
+
+item {
+  id: 188
+  name: 'beef in oyster sauce'
+}
+
+item {
+  id: 189
+  name: 'pork satay'
+}
+
+item {
+  id: 190
+  name: 'spicy chicken salad'
+}
+
+item {
+  id: 191
+  name: 'noodles with fish curry'
+}
+
+item {
+  id: 192
+  name: 'Pork Sticky Noodles'
+}
+
+item {
+  id: 193
+  name: 'Pork with lemon'
+}
+
+item {
+  id: 194
+  name: 'stewed pork leg'
+}
+
+item {
+  id: 195
+  name: 'charcoal-boiled pork neck'
+}
+
+item {
+  id: 196
+  name: 'fried mussel pancakes'
+}
+
+item {
+  id: 197
+  name: 'Deep Fried Chicken Wing'
+}
+
+item {
+  id: 198
+  name: 'Barbecued red pork in sauce with rice'
+}
+
+item {
+  id: 199
+  name: 'Rice with roast duck'
+}
+
+item {
+  id: 200
+  name: 'Rice crispy pork'
+}
+
+item {
+  id: 201
+  name: 'Wonton soup'
+}
+
+item {
+  id: 202
+  name: 'Chicken Rice Curry With Coconut'
+}
+
+item {
+  id: 203
+  name: 'Crispy Noodles'
+}
+
+item {
+  id: 204
+  name: 'Egg Noodle In Chicken Yellow Curry'
+}
+
+item {
+  id: 205
+  name: 'coconut milk soup'
+}
+
+item {
+  id: 206
+  name: 'pho'
+}
+
+item {
+  id: 207
+  name: 'Hue beef rice vermicelli soup'
+}
+
+item {
+  id: 208
+  name: 'Vermicelli noodles with snails'
+}
+
+item {
+  id: 209
+  name: 'Fried spring rolls'
+}
+
+item {
+  id: 210
+  name: 'Steamed rice roll'
+}
+
+item {
+  id: 211
+  name: 'Shrimp patties'
+}
+
+item {
+  id: 212
+  name: 'ball shaped bun with pork'
+}
+
+item {
+  id: 213
+  name: 'Coconut milk-flavored crepes with shrimp and beef'
+}
+
+item {
+  id: 214
+  name: 'Small steamed savory rice pancake'
+}
+
+item {
+  id: 215
+  name: 'Glutinous Rice Balls'
+}
+
+item {
+  id: 216
+  name: 'loco moco'
+}
+
+item {
+  id: 217
+  name: 'haupia'
+}
+
+item {
+  id: 218
+  name: 'malasada'
+}
+
+item {
+  id: 219
+  name: 'laulau'
+}
+
+item {
+  id: 220
+  name: 'spam musubi'
+}
+
+item {
+  id: 221
+  name: 'oxtail soup'
+}
+
+item {
+  id: 222
+  name: 'adobo'
+}
+
+item {
+  id: 223
+  name: 'lumpia'
+}
+
+item {
+  id: 224
+  name: 'brownie'
+}
+
+item {
+  id: 225
+  name: 'churro'
+}
+
+item {
+  id: 226
+  name: 'jambalaya'
+}
+
+item {
+  id: 227
+  name: 'nasi goreng'
+}
+
+item {
+  id: 228
+  name: 'ayam goreng'
+}
+
+item {
+  id: 229
+  name: 'ayam bakar'
+}
+
+item {
+  id: 230
+  name: 'bubur ayam'
+}
+
+item {
+  id: 231
+  name: 'gulai'
+}
+
+item {
+  id: 232
+  name: 'laksa'
+}
+
+item {
+  id: 233
+  name: 'mie ayam'
+}
+
+item {
+  id: 234
+  name: 'mie goreng'
+}
+
+item {
+  id: 235
+  name: 'nasi campur'
+}
+
+item {
+  id: 236
+  name: 'nasi padang'
+}
+
+item {
+  id: 237
+  name: 'nasi uduk'
+}
+
+item {
+  id: 238
+  name: 'babi guling'
+}
+
+item {
+  id: 239
+  name: 'kaya toast'
+}
+
+item {
+  id: 240
+  name: 'bak kut teh'
+}
+
+item {
+  id: 241
+  name: 'curry puff'
+}
+
+item {
+  id: 242
+  name: 'chow mein'
+}
+
+item {
+  id: 243
+  name: 'zha jiang mian'
+}
+
+item {
+  id: 244
+  name: 'kung pao chicken'
+}
+
+item {
+  id: 245
+  name: 'crullers'
+}
+
+item {
+  id: 246
+  name: 'eggplant with garlic sauce'
+}
+
+item {
+  id: 247
+  name: 'three cup chicken'
+}
+
+item {
+  id: 248
+  name: 'bean curd family style'
+}
+
+item {
+  id: 249
+  name: 'salt & pepper fried shrimp with shell'
+}
+
+item {
+  id: 250
+  name: 'baked salmon'
+}
+
+item {
+  id: 251
+  name: 'braised pork meat ball with napa cabbage'
+}
+
+item {
+  id: 252
+  name: 'winter melon soup'
+}
+
+item {
+  id: 253
+  name: 'steamed spareribs'
+}
+
+item {
+  id: 254
+  name: 'chinese pumpkin pie'
+}
+
+item {
+  id: 255
+  name: 'eight treasure rice'
+}
+
+item {
+  id: 256
+  name: 'hot & sour soup'
+}
+
